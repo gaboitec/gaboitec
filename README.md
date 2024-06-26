@@ -51,7 +51,7 @@
 
    <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=boostrap,tailwind" />
+        <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
       </a>
     </p>
 
