@@ -80,7 +80,7 @@
 <br><br>
 	
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<img src="https%3A%2F%2Fcl.pinterest.com%2Fpin%2F480266747741772956%2F%3Famp_client_id%3DCLIENT_ID%2528_%2529%26from_amp_pin_page%3Dtrue%26mweb_unauth_id%3D%257B%257Bdefault.session%257D%257D&psig=AOvVaw1O1tDREELOTFOThmxAznra&ust=1719511299674000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjS3_Ts-YYDFQAAAAAdAAAAABAE">
+<img src="https://media1.tenor.com/m/Pm4S40MGsIQAAAAC/hacker-hackerman.gif">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 </div>
 
