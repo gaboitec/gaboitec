@@ -10,9 +10,10 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](#)
+- Un apasionado desarrollador autodidacta
+- Actualmente aprendiendo desarrollo web por mi cuenta
+- En este momento estoy en busca de una oportuniad laboral, este [mi cv](#)
+
 
 <br><br>
 
