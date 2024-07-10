@@ -88,11 +88,11 @@
 
 <div><!--Repositories-->
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/gaboitec/Bootcamp-Full-Stack-Jr-2024">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Bootcamp Full Stack&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Oklared/Proyect.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
