@@ -3,8 +3,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Yefry+Gabriel+Garcia...&hearts;++;Full-Stack+Developer,;Electronics+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-<br>
 	
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi...**
 
@@ -89,10 +87,10 @@
 <div><!--Repositories-->
   <p align="center">
 	<a href="https://github.com/gaboitec/Bootcamp-Full-Stack-Jr-2024">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Bootcamp Full Stack&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Bootcamp-Full-Stack&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Oklared/Proyect.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Landing-Page&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
