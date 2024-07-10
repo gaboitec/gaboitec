@@ -87,7 +87,7 @@
 <div><!--Repositories-->
   <p align="center">
 	<a href="https://github.com/gaboitec/Bootcamp-Full-Stack-Jr-2024">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Bootcamp-Full-Stack&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yefry-Gabriel-García-Caxaj&repo=Bootcamp-Full-Stack&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Oklared/Proyect.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Landing-Page&theme=tokyonight" alt="GitHub Stats" />
