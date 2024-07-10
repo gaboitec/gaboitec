@@ -91,7 +91,7 @@
 &theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Oklared/Proyect.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaboitec&repo=Proyect&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oklared&repo=Proyect&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
